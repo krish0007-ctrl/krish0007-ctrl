@@ -21,10 +21,10 @@ Dedicated Software Developer and Computer Science Engineering student at MGM Uni
 `Java` • `Python` • `C++` • `JavaScript`  
 
 **Web Development:**  
-`HTML` • `CSS` • `React.js` • `Node.js`  
+`HTML` • `CSS` • `React.js` • `Node.js`•  `Express.js`•
 
 **Databases:**  
-`MySQL` • `Derby`•  
+`MySQL` • `Derby`•  `SQLite` • `MongoDB`• `PostgreSQL`•
 
 **Tools & Platforms:**  
 `Git` • `GitHub` • `VS Code` • `Netbeans` • `Pycharm`•  

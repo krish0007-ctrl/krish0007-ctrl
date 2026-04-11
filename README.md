@@ -8,7 +8,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saiprasadzampalwad&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
+  <img src="https://img.shields.io/github/followers/saiprasadzampalwad?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/saiprasadzampalwad?label=Stars&style=social" alt="Stars" />
 </p>
 
 ---
@@ -69,11 +70,13 @@ Dedicated Software Developer and Computer Science Engineering student at MGM Uni
 ### 🏗️ Featured Projects
 
 #### 🤖 [AI Disease Prediction](https://github.com/saiprasadzampalwad/Ai_Disease)
-> A machine learning-based system that predicts diseases from patient symptoms using AI models.
+> A machine learning-based system that predicts diseases from patient symptoms.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Repo Size](https://img.shields.io/github/repo-size/saiprasadzampalwad/Ai_Disease?style=flat)
+![Last Commit](https://img.shields.io/github/last-commit/saiprasadzampalwad/Ai_Disease?style=flat)
 
 > 🔹 Trains ML models on medical symptom datasets for disease classification  
 > 🔹 Data preprocessing, feature engineering & model evaluation  
@@ -82,26 +85,28 @@ Dedicated Software Developer and Computer Science Engineering student at MGM Uni
 ---
 
 #### 🏥 [Smart Healthcare Telemedicine App](https://github.com/saiprasadzampalwad/Smart-Healthcare-Telemedicine-App)
-> A full-stack telemedicine application enabling remote healthcare access with a modern UI.
+> A full-stack telemedicine app enabling remote healthcare access with a modern UI.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Repo Size](https://img.shields.io/github/repo-size/saiprasadzampalwad/Smart-Healthcare-Telemedicine-App?style=flat)
+![Last Commit](https://img.shields.io/github/last-commit/saiprasadzampalwad/Smart-Healthcare-Telemedicine-App?style=flat)
 
 > 🔹 Patient & doctor portal with appointment and consultation features  
 > 🔹 Built from a professional Figma design with a fully responsive layout  
-> 🔹 Modular backend architecture with clean frontend component structure
+> 🔹 Modular backend with clean frontend component structure
 
 ---
 
 #### 📚 [JNEC Central Library](https://github.com/saiprasadzampalwad/LIBRARY-JNEC-REACT)
-> A modern, React-based Library Management System for JNEC (MGM University).
+> A modern React-based Library Management System for JNEC, MGM University.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Repo Size](https://img.shields.io/github/repo-size/saiprasadzampalwad/LIBRARY-JNEC-REACT?style=flat)
+![Last Commit](https://img.shields.io/github/last-commit/saiprasadzampalwad/LIBRARY-JNEC-REACT?style=flat)
 
 > 🔹 Responsive UI with sidebar navigation, photo gallery & e-resources portal  
 > 🔹 Access to academic databases like EBSCO, IEEE Xplore & SpringerLink  
@@ -109,19 +114,12 @@ Dedicated Software Developer and Computer Science Engineering student at MGM Uni
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saiprasadzampalwad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiprasadzampalwad&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saiprasadzampalwad&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://img.shields.io/badge/Repos-9-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Languages-5-green?style=for-the-badge&logo=code" />
+  <img src="https://img.shields.io/badge/Achievements-YOLO%20%7C%20Pull%20Shark-orange?style=for-the-badge&logo=github" />
 </p>
 
 ---
@@ -137,7 +135,7 @@ Dedicated Software Developer and Computer Science Engineering student at MGM Uni
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/saiprasadzampalwad" target="_blank">
+  <a href="https://github.com/saiprasadzampalwad">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>

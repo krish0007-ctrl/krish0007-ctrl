@@ -84,7 +84,7 @@ Dedicated Software Developer and Computer Science Engineering student at MGM Uni
 
 ---
 
-#### 🏥 [Smart Healthcare Telemedicine App](https://github.com/saiprasadzampalwad/Smart-Healthcare-Telemedicine-App)
+#### 🏥 [MeduConnect](https://github.com/saiprasadzampalwad/MediConnect)
 > A full-stack telemedicine app enabling remote healthcare access with a modern UI.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)

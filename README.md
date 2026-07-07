@@ -99,14 +99,14 @@ Dedicated Software Developer and Computer Science Engineering student at MGM Uni
 
 ---
 
-#### 📚 [JNEC Central Library](https://github.com/saiprasadzampalwad/LIBRARY-JNEC-REACT)
+#### 📚 [JNEC Central Library](https://github.com/saiprasadzampalwad/LIBRARY-JNEC)
 > A modern React-based Library Management System for JNEC, MGM University.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Repo Size](https://img.shields.io/github/repo-size/saiprasadzampalwad/LIBRARY-JNEC-REACT?style=flat)
-![Last Commit](https://img.shields.io/github/last-commit/saiprasadzampalwad/LIBRARY-JNEC-REACT?style=flat)
+![Repo Size](https://img.shields.io/github/repo-size/saiprasadzampalwad/LIBRARY-JNEC?style=flat)
+![Last Commit](https://img.shields.io/github/last-commit/saiprasadzampalwad/LIBRARY-JNEC?style=flat)
 
 > 🔹 Responsive UI with sidebar navigation, photo gallery & e-resources portal  
 > 🔹 Access to academic databases like EBSCO, IEEE Xplore & SpringerLink  
